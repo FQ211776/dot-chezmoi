@@ -226,7 +226,7 @@
 
 [ghq]
 
-    root = "~/Developments"         # Directorio raíz para GHQ
+    root = "~/Dropbox/Developments"         # Directorio raíz para GHQ
 
     # root = "$HOME/Developments"         # Directorio raíz para GHQ
 
